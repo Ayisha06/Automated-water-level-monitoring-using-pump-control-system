@@ -1,0 +1,5 @@
+--- Info 300 "main.c" Line 22(23,25): More info:   First Declaration of hr
+*** Error 31 "main.c" Line 22(31,33): Identifier is already used in this scope
+*** Error 48 "main.c" Line 22(34,39): Expecting a (
+*** Error 51 "main.c" Line 41(1,5): A numeric expression must appear here
+*** Error 79 "main.c" Line 51(1,2): Expect }
